@@ -1,0 +1,35 @@
+# Ignore OS generated files #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Always-ignore files and folders #
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swn
+*.swo
+*.swp
+._*
+*~
+
+# Igonore FontForge autosave files
+*.sfd~*
+*.sfd-*
+
+# Ignore SVG
+*.svg
+
+# node, cache
+node_modules
+.sass-cache
+
+# Temp Ignore
+*backup
+*.py*
+fonts/otf*
+fonts/ttf*
+font/woff*
