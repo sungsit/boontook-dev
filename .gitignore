@@ -32,4 +32,4 @@ node_modules
 *.py*
 fonts/otf*
 fonts/ttf*
-font/woff*
+fonts/woff*
