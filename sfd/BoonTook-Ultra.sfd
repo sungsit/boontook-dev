@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1394017292
-ModificationTime: 1414533018
+ModificationTime: 1414542223
 PfmFamily: 33
 TTFWeight: 950
 TTFWidth: 5
@@ -346,7 +346,7 @@ ChainSub2: class "'ccmp' TH Descless"  3 3 3 1
   FClassNames: "All_Others"  "Desc"  "Below"  
 EndFPST
 LangName: 1054 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+Dh4ONQ5IDhsOSw4zDg4OOQ4ZDjkOSw4ZDkkOMw5ADhsOSA4yDh0OOA5IDhkOKw4NDjkOSA4BDkkOGQ4bDjUOSAAA +DhAOMg4VDjgOTQAA +Dg0OMg4VDjQOTQAA +DhsOOA5NDhsONA5N" 
-LangName: 1033 "" "" "" "" "" "" "" "" "Boon Uni" "Sungsit Sawaiwan" "" "https://boonuni.com" "https://sungsit.com" "Copyright (c) 2014, Sungsit Sawaiwan (sungsit.com | https://twitter.com/gzix),+AA0ACgAA-with Reserved Font Names +ACIA-BoonTook+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "BoonTook" "" "BoonTook Ultra" 
+LangName: 1033 "" "" "" "" "" "" "" "" "Boon Uni" "Sungsit Sawaiwan" "" "https://boonuni.com" "https://sungsit.com" "Copyright (c) 2014, Sungsit Sawaiwan (sungsit.com | https://twitter.com/gzix),+AA0ACgAA-with Reserved Font Names +ACIA-BoonTook+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "BoonTook Ultra" 
 OtfFeatName: 'ss01' 1033 "Pali-Sanskrit for Thai script" 
 OtfFeatName: 'ss02' 1033 "Thai Tail Swap" 
 OtfFeatName: 'ss18' 1033 "Latin Small g Alternate" 
@@ -460,19 +460,19 @@ VStem: 45 280<206.495 600> 445 280<219.23 600>
 LayerCount: 2
 Fore
 SplineSet
-725 600 m 1xb8
+45 220 m 2xb8
+ 45 600 l 1
+ 325 600 l 1
+ 325 280 l 2
+ 325 219 341 200 375 200 c 0xb8
+ 410 200 432 226 445 267 c 1
+ 445 600 l 1
+ 725 600 l 1
  725 0 l 1
  465 0 l 1x78
  465 102 l 1
  437 56 378 -10 265 -10 c 0
- 136 -10 45 74 45 220 c 2
- 45 600 l 1
- 325 600 l 1
- 325 280 l 2
- 325 219 341 200 375 200 c 0
- 410 200 432 226 445 267 c 1
- 445 600 l 1
- 725 600 l 1xb8
+ 136 -10 45 74 45 220 c 2xb8
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -911,6 +911,16 @@ VStem: -390 135<762.68 847.32> -175 135<762.68 847.32> 210 280<0 400.887>
 LayerCount: 2
 Fore
 SplineSet
+-390 805 m 0
+ -390 884 -329 940 -215 940 c 0
+ -101 940 -40 884 -40 805 c 0
+ -40 726 -101 670 -215 670 c 0
+ -329 670 -390 726 -390 805 c 0
+-255 805 m 0
+ -255 775 -237 760 -215 760 c 0
+ -193 760 -175 775 -175 805 c 0
+ -175 835 -193 850 -215 850 c 0
+ -237 850 -255 835 -255 805 c 0
 0 540 m 1
  0 540 84 610 250 610 c 0
  416 610 490 532 490 380 c 2
@@ -920,16 +930,6 @@ SplineSet
  210 398 196 410 160 410 c 0
  124 410 72 394 50 380 c 1
  0 540 l 1
--255 805 m 0
- -255 775 -237 760 -215 760 c 0
- -193 760 -175 775 -175 805 c 0
- -175 835 -193 850 -215 850 c 0
- -237 850 -255 835 -255 805 c 0
--390 805 m 0
- -390 884 -329 940 -215 940 c 0
- -101 940 -40 884 -40 805 c 0
- -40 726 -101 670 -215 670 c 0
- -329 670 -390 726 -390 805 c 0
 EndSplineSet
 Substitution2: "TH Sara Am Alter" uni0E33.alt
 Colour: ffff00
@@ -1126,14 +1126,7 @@ VStem: 90 260<150 395.783> 460 270<169.293 428.402> 830 270<169.293 600>
 LayerCount: 2
 Fore
 SplineSet
-505 -180 m 1x87
- 565 -45 l 1
- 565 -45 657 -100 780 -100 c 0
- 902 -100 995 -45 995 -45 c 1
- 1055 -180 l 1
- 1055 -180 962 -250 780 -250 c 0
- 597 -250 505 -180 505 -180 c 1x87
-20 520 m 1
+20 520 m 1xb7
  20 520 178 620 380 620 c 0xb7
  594 620 730 536 730 370 c 2
  730 220 l 2
@@ -1151,12 +1144,19 @@ SplineSet
  350 150 l 1
  410 150 l 1
  410 0 l 1
- 200 0 l 2xb7
+ 200 0 l 2
  120 0 90 42 90 90 c 2
  90 370 l 2
  90 389 86 396 79 397 c 1
  69 395 59 392 50 390 c 1
- 20 520 l 1
+ 20 520 l 1xb7
+505 -180 m 1
+ 565 -45 l 1
+ 565 -45 657 -100 780 -100 c 0
+ 902 -100 995 -45 995 -45 c 1
+ 1055 -180 l 1
+ 1055 -180 962 -250 780 -250 c 0
+ 597 -250 505 -180 505 -180 c 1
 EndSplineSet
 Substitution2: "TH Descless" uni0E0D.descless
 Substitution2: "'locl' Localized Thai-Sanskrit" uni0E0D.descless
@@ -1349,9 +1349,7 @@ VStem: 340 280<225.358 374.642>
 LayerCount: 2
 Fore
 SplineSet
-620 300 m 0
- 620 123 484 -20 270 -20 c 0
- 101 -20 20 50 20 50 c 1
+20 50 m 1
  100 210 l 1
  122 196 151 180 220 180 c 0
  289 180 340 227 340 300 c 0
@@ -1360,6 +1358,8 @@ SplineSet
  20 550 l 1
  20 550 101 620 270 620 c 0
  484 620 620 477 620 300 c 0
+ 620 123 484 -20 270 -20 c 0
+ 101 -20 20 50 20 50 c 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -1766,22 +1766,7 @@ AnchorPoint: "th-vow-above" 600 660 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-30 -190 m 1xa4
- 100 -70 l 1
- 100 -70 126 -110 180 -110 c 0xa4
- 261 -110 300 -60 300 -60 c 1
- 380 -60 l 1
- 470 -144 l 1
- 470 -60 l 1
- 650 -60 l 1
- 650 -240 l 1
- 500 -240 l 1
- 470 -240 l 1
- 430 -240 l 1x64
- 360 -181 l 1
- 308 -226 244 -250 180 -250 c 0
- 82 -250 30 -190 30 -190 c 1xa4
-20 550 m 1
+20 550 m 1x34
  20 550 138 620 340 620 c 0x34
  396 620 437 608 466 595 c 1
  530 635 623 680 720 680 c 1
@@ -1797,9 +1782,24 @@ SplineSet
  282 340 299 320 310 290 c 2
  353 168 l 1
  386 186 410 233 410 310 c 0
- 410 395 360 440 270 440 c 0x34
+ 410 395 360 440 270 440 c 0
  198 440 124 416 80 400 c 1
- 20 550 l 1
+ 20 550 l 1x34
+30 -190 m 1
+ 100 -70 l 1
+ 100 -70 126 -110 180 -110 c 0xa4
+ 261 -110 300 -60 300 -60 c 1
+ 380 -60 l 1
+ 470 -144 l 1
+ 470 -60 l 1
+ 650 -60 l 1
+ 650 -240 l 1
+ 500 -240 l 1
+ 470 -240 l 1
+ 430 -240 l 1x64
+ 360 -181 l 1
+ 308 -226 244 -250 180 -250 c 0xa4
+ 82 -250 30 -190 30 -190 c 1
 EndSplineSet
 Substitution2: "TH Descless" uni0E10.descless
 Substitution2: "'locl' Localized Thai-Sanskrit" uni0E10.descless
@@ -1817,7 +1817,9 @@ AnchorPoint: "th-vow-above" 570 660 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-600 550 m 1
+30 409 m 0
+ 30 555 174 620 320 620 c 0
+ 436 620 541 584 600 550 c 1
  530 410 l 1
  493 439 406 465 365 465 c 0
  332 465 310 457 310 435 c 0
@@ -1832,8 +1834,6 @@ SplineSet
  320 184 296 194 270 205 c 0
  248 214 207 230 180 240 c 0
  119 263 30 306 30 409 c 0
- 30 555 174 620 320 620 c 0
- 436 620 541 584 600 550 c 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -1848,12 +1848,6 @@ VStem: 40 280<378.5 468.199>
 LayerCount: 2
 Fore
 SplineSet
-300 133 m 1
- 321 131 340 130 355 130 c 0
- 401 130 430 141 430 165 c 0
- 430 199 394 212 360 220 c 0
- 349 223 327 228 300 235 c 1
- 300 133 l 1
 40 420 m 0
  40 540 164 620 340 620 c 0
  516 620 630 570 660 550 c 1
@@ -1869,6 +1863,12 @@ SplineSet
  241 250 l 1
  213 257 187 265 170 270 c 0
  87 296 40 337 40 420 c 0
+300 133 m 1
+ 321 131 340 130 355 130 c 0
+ 401 130 430 141 430 165 c 0
+ 430 199 394 212 360 220 c 0
+ 349 223 327 228 300 235 c 1
+ 300 133 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2035,11 +2035,6 @@ AnchorPoint: "th-vow-above" -70 660 mark 0
 LayerCount: 2
 Fore
 SplineSet
--250 810 m 0x78
- -250 784 -233 770 -210 770 c 0
- -187 770 -170 784 -170 810 c 0
- -170 836 -187 850 -210 850 c 0
- -233 850 -250 836 -250 810 c 0x78
 -610 690 m 1xb8
  -610 840 l 1
  -410 840 l 2xb8
@@ -2049,6 +2044,11 @@ SplineSet
  -124 930 -70 882 -70 810 c 0
  -70 738 -124 690 -210 690 c 2x78
  -610 690 l 1xb8
+-250 810 m 0
+ -250 784 -233 770 -210 770 c 0x78
+ -187 770 -170 784 -170 810 c 0
+ -170 836 -187 850 -210 850 c 0
+ -233 850 -250 836 -250 810 c 0
 EndSplineSet
 Substitution2: "TH Vowel to Left" uni0E36.left
 Colour: ffff00
@@ -2093,16 +2093,16 @@ VStem: -390 135<762.68 847.32> -175 135<762.68 847.32>
 LayerCount: 2
 Fore
 SplineSet
--255 805 m 0
- -255 775 -237 760 -215 760 c 0
- -193 760 -175 775 -175 805 c 0
- -175 835 -193 850 -215 850 c 0
- -237 850 -255 835 -255 805 c 0
 -390 805 m 0
  -390 884 -329 940 -215 940 c 0
  -101 940 -40 884 -40 805 c 0
  -40 726 -101 670 -215 670 c 0
  -329 670 -390 726 -390 805 c 0
+-255 805 m 0
+ -255 775 -237 760 -215 760 c 0
+ -193 760 -175 775 -175 805 c 0
+ -175 835 -193 850 -215 850 c 0
+ -237 850 -255 835 -255 805 c 0
 EndSplineSet
 Substitution2: "TH Nikhahit High-Left" uni0E4D.high.left
 Substitution2: "TH Vowel to Left" uni0E4D.low.left
@@ -2324,18 +2324,18 @@ VStem: 60 270<22.8515 600> 420 270<22.8515 600>
 LayerCount: 2
 Fore
 SplineSet
-420 100 m 2
- 420 600 l 1
- 690 600 l 1
- 690 0 l 1
- 690 0 628 -10 560 -10 c 0
- 448 -10 420 36 420 100 c 2
 60 100 m 2
  60 600 l 1
  330 600 l 1
  330 0 l 1
  330 0 268 -10 200 -10 c 0
  88 -10 60 36 60 100 c 2
+420 100 m 2
+ 420 600 l 1
+ 690 600 l 1
+ 690 0 l 1
+ 690 0 628 -10 560 -10 c 0
+ 448 -10 420 36 420 100 c 2
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2376,14 +2376,6 @@ HStem: 40 170<270 480> 350 170<270 480>
 LayerCount: 2
 Fore
 SplineSet
-40 450 m 0
- 40 506 75 570 75 570 c 1
- 290 570 l 1
- 270 520 l 1
- 480 520 l 1
- 480 350 l 1
- 150 350 l 2
- 90 350 40 392 40 450 c 0
 40 140 m 0
  40 196 75 260 75 260 c 1
  290 260 l 1
@@ -2392,6 +2384,14 @@ SplineSet
  480 40 l 1
  150 40 l 2
  90 40 40 82 40 140 c 0
+40 450 m 0
+ 40 506 75 570 75 570 c 1
+ 290 570 l 1
+ 270 520 l 1
+ 480 520 l 1
+ 480 350 l 1
+ 150 350 l 2
+ 90 350 40 392 40 450 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2704,18 +2704,6 @@ VStem: 60 280<180 350 500 660> 280 210<-120 0 840 960>
 LayerCount: 2
 Fore
 SplineSet
-340 500 m 1xc0
- 390 500 l 2
- 434 500 460 542 460 580 c 0
- 460 618 428 660 380 660 c 2
- 340 660 l 1
- 340 500 l 1xc0
-340 180 m 1
- 390 180 l 2
- 442 180 490 214 490 260 c 0xa0
- 490 306 460 350 390 350 c 2
- 340 350 l 1
- 340 180 l 1
 60 0 m 1xc0
  60 840 l 1xc0
  280 840 l 1
@@ -2730,6 +2718,18 @@ SplineSet
  280 -120 l 1
  280 0 l 1xa0
  60 0 l 1xc0
+340 180 m 1
+ 390 180 l 2
+ 442 180 490 214 490 260 c 0xa0
+ 490 306 460 350 390 350 c 2
+ 340 350 l 1
+ 340 180 l 1
+340 500 m 1xc0
+ 390 500 l 2
+ 434 500 460 542 460 580 c 0
+ 460 618 428 660 380 660 c 2
+ 340 660 l 1
+ 340 500 l 1xc0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2776,21 +2776,21 @@ CounterMasks: 1 fc
 LayerCount: 2
 Fore
 SplineSet
-230 300 m 0
- 230 383 297 450 380 450 c 0
- 463 450 530 383 530 300 c 0
- 530 217 463 150 380 150 c 0
- 297 150 230 217 230 300 c 0
-150 300 m 0
- 150 167 243 60 380 60 c 0
- 517 60 610 167 610 300 c 0
- 610 433 517 540 380 540 c 0
- 243 540 150 433 150 300 c 0
 60 300 m 0
  60 477 191 620 380 620 c 0
  569 620 700 477 700 300 c 0
  700 123 569 -20 380 -20 c 0
  191 -20 60 123 60 300 c 0
+150 300 m 0
+ 150 167 243 60 380 60 c 0
+ 517 60 610 167 610 300 c 0
+ 610 433 517 540 380 540 c 0
+ 243 540 150 433 150 300 c 0
+230 300 m 0
+ 230 383 297 450 380 450 c 0
+ 463 450 530 383 530 300 c 0
+ 530 217 463 150 380 150 c 0
+ 297 150 230 217 230 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2805,16 +2805,16 @@ VStem: 30 260<224.512 375.488> 490 260<224.512 375.488>
 LayerCount: 2
 Fore
 SplineSet
-290 300 m 0
- 290 237 324 190 390 190 c 0
- 456 190 490 237 490 300 c 0
- 490 363 456 410 390 410 c 0
- 324 410 290 363 290 300 c 0
 30 300 m 0
  30 477 170 620 390 620 c 0
  610 620 750 477 750 300 c 0
  750 123 610 -20 390 -20 c 0
  170 -20 30 123 30 300 c 0
+290 300 m 0
+ 290 237 324 190 390 190 c 0
+ 456 190 490 237 490 300 c 0
+ 490 363 456 410 390 410 c 0
+ 324 410 290 363 290 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -2949,11 +2949,6 @@ VStem: 30 260<211.185 396.956> 200 105<584.598 664.204> 395 105<613.446 664.204>
 LayerCount: 2
 Fore
 SplineSet
-305 625 m 0xee
- 305 600 325 580 350 580 c 0
- 375 580 395 600 395 625 c 0
- 395 650 375 670 350 670 c 0
- 325 670 305 650 305 625 c 0xee
 30 300 m 0xf6
  30 432 100 523 216 561 c 1
  206 579 200 601 200 625 c 0xee
@@ -2973,6 +2968,11 @@ SplineSet
  690 0 l 1
  390 0 l 2
  170 0 30 123 30 300 c 0xf6
+305 625 m 0
+ 305 600 325 580 350 580 c 0
+ 375 580 395 600 395 625 c 0
+ 395 650 375 670 350 670 c 0
+ 325 670 305 650 305 625 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3117,12 +3117,7 @@ VStem: 20 210<470.615 600> 360 210<0 349> 380 190<491.494 600> 630 210<0 600>
 LayerCount: 2
 Fore
 SplineSet
-630 0 m 1xf2
- 630 600 l 1
- 840 600 l 1
- 840 0 l 1
- 630 0 l 1xf2
-20 490 m 1
+20 490 m 1xfa
  20 600 l 1
  230 600 l 1
  230 540 l 2
@@ -3132,9 +3127,14 @@ SplineSet
  570 600 l 1xf6
  570 0 l 1
  360 0 l 1
- 360 349 l 1xfa
+ 360 349 l 1
  329 317 280 290 210 290 c 0
- 87 290 21 386 20 490 c 1
+ 87 290 21 386 20 490 c 1xfa
+630 0 m 1
+ 630 600 l 1
+ 840 600 l 1
+ 840 0 l 1
+ 630 0 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3149,12 +3149,7 @@ VStem: 30 90<187.634 412.366> 200 300<216.064 383.936> 620 80<510.965 540>
 LayerCount: 2
 Fore
 SplineSet
-200 300 m 0xde
- 200 383 267 450 350 450 c 0
- 433 450 500 383 500 300 c 0
- 500 217 433 150 350 150 c 0
- 267 150 200 217 200 300 c 0xde
-30 300 m 0
+30 300 m 0xbe
  30 477 161 620 350 620 c 0
  447 620 512 588 570 530 c 1
  520 470 l 1
@@ -3171,14 +3166,19 @@ SplineSet
  1080 340 l 1
  1080 260 l 1
  1010 260 l 1
- 940 260 l 1xbe
+ 940 260 l 1
  905 348 l 1
  830 90 l 1
  750 90 l 1
  683 322 l 1
  682 314 681 307 680 300 c 0
  652 108 551 -20 350 -20 c 0
- 161 -20 30 123 30 300 c 0
+ 161 -20 30 123 30 300 c 0xbe
+200 300 m 0
+ 200 383 267 450 350 450 c 0
+ 433 450 500 383 500 300 c 0
+ 500 217 433 150 350 150 c 0
+ 267 150 200 217 200 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3209,16 +3209,16 @@ VStem: 30 260<219.748 380.252> 470 260<219.748 380.252>
 LayerCount: 2
 Fore
 SplineSet
-290 300 m 0
- 290 237 323 190 380 190 c 0
- 437 190 470 237 470 300 c 0
- 470 363 437 410 380 410 c 0
- 323 410 290 363 290 300 c 0
 30 300 m 0
  30 477 166 620 380 620 c 0
  594 620 730 477 730 300 c 0
  730 123 594 -20 380 -20 c 0
  166 -20 30 123 30 300 c 0
+290 300 m 0
+ 290 237 323 190 380 190 c 0
+ 437 190 470 237 470 300 c 0
+ 470 363 437 410 380 410 c 0
+ 323 410 290 363 290 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3278,19 +3278,19 @@ VStem: 45 280<206.495 600> 445 280<219.23 600>
 LayerCount: 2
 Fore
 SplineSet
-725 600 m 1xb8
+45 220 m 2xb8
+ 45 600 l 1
+ 325 600 l 1
+ 325 280 l 2
+ 325 219 341 200 375 200 c 0xb8
+ 410 200 432 226 445 267 c 1
+ 445 600 l 1
+ 725 600 l 1
  725 0 l 1
  465 0 l 1x78
  465 102 l 1
  437 56 378 -10 265 -10 c 0
- 136 -10 45 74 45 220 c 2
- 45 600 l 1
- 325 600 l 1
- 325 280 l 2
- 325 219 341 200 375 200 c 0
- 410 200 432 226 445 267 c 1
- 445 600 l 1
- 725 600 l 1xb8
+ 136 -10 45 74 45 220 c 2xb8
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3305,13 +3305,7 @@ VStem: 30 270<138.996 221.004> 430 270<137.238 222.762 311 414.524>
 LayerCount: 2
 Fore
 SplineSet
-300 180 m 0xbc
- 300 145 328 130 360 130 c 0
- 392 130 412 138 430 152 c 1
- 430 208 l 1
- 412 222 392 230 360 230 c 0
- 328 230 300 215 300 180 c 0xbc
-30 180 m 0
+30 180 m 0xbc
  30 288 104 370 250 370 c 0
  347 370 403 335 430 311 c 1
  430 360 l 2
@@ -3324,7 +3318,13 @@ SplineSet
  450 0 l 1x7c
  450 70 l 1
  450 70 396 -10 250 -10 c 0
- 104 -10 30 72 30 180 c 0
+ 104 -10 30 72 30 180 c 0xbc
+300 180 m 0
+ 300 145 328 130 360 130 c 0xbc
+ 392 130 412 138 430 152 c 1
+ 430 208 l 1
+ 412 222 392 230 360 230 c 0
+ 328 230 300 215 300 180 c 0
 EndSplineSet
 Substitution2: "'aalt' Latin Access All Alternates" a.alt
 Substitution2: "'ss20' Latin a & g alt" a.alt
@@ -3342,13 +3342,7 @@ VStem: 30 280<213.556 386.444> 470 270<191.988 408.012 544 840>
 LayerCount: 2
 Fore
 SplineSet
-310 300 m 0xbc
- 310 220 352 180 400 180 c 0
- 438 180 459 198 470 228 c 1
- 470 372 l 1
- 459 402 438 420 400 420 c 0
- 352 420 310 380 310 300 c 0xbc
-30 300 m 0
+30 300 m 0xbc
  30 471 142 610 320 610 c 0
  387 610 435 583 470 544 c 1
  470 840 l 1
@@ -3357,7 +3351,13 @@ SplineSet
  490 0 l 1x7c
  490 82 l 1
  455 29 401 -10 320 -10 c 0
- 142 -10 30 129 30 300 c 0
+ 142 -10 30 129 30 300 c 0xbc
+310 300 m 0
+ 310 220 352 180 400 180 c 0xbc
+ 438 180 459 198 470 228 c 1
+ 470 372 l 1
+ 459 402 438 420 400 420 c 0
+ 352 420 310 380 310 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3372,12 +3372,6 @@ VStem: 60 270<191.988 408.012 544 840> 490 280<213.556 386.444>
 LayerCount: 2
 Fore
 SplineSet
-330 228 m 1xbc
- 341 198 362 180 400 180 c 0
- 448 180 490 220 490 300 c 0
- 490 380 448 420 400 420 c 0
- 362 420 341 402 330 372 c 1
- 330 228 l 1xbc
 60 0 m 1x7c
  60 840 l 1
  330 840 l 1
@@ -3388,6 +3382,12 @@ SplineSet
  399 -10 345 29 310 82 c 1
  310 0 l 1
  60 0 l 1x7c
+330 228 m 1
+ 341 198 362 180 400 180 c 0
+ 448 180 490 220 490 300 c 0
+ 490 380 448 420 400 420 c 0
+ 362 420 341 402 330 372 c 1
+ 330 228 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3401,10 +3401,6 @@ HStem: -20 180<329.843 542.534> 240 110<290 460> 440 180<318.163 437.587>
 LayerCount: 2
 Fore
 SplineSet
-284 350 m 1
- 460 350 l 1
- 460 402 432 440 380 440 c 0
- 329 440 296 409 284 350 c 1
 30 300 m 0
  30 477 166 620 380 620 c 0
  553 620 700 518 700 320 c 0
@@ -3415,6 +3411,10 @@ SplineSet
  640 60 l 1
  640 60 560 -20 380 -20 c 0
  166 -20 30 123 30 300 c 0
+284 350 m 1
+ 460 350 l 1
+ 460 402 432 440 380 440 c 0
+ 329 440 296 409 284 350 c 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3429,22 +3429,22 @@ VStem: 30 280<213.556 386.444> 470 270<-240 56 191.988 408.012>
 LayerCount: 2
 Fore
 SplineSet
-310 300 m 0xd8
- 310 220 352 180 400 180 c 0
- 438 180 459 198 470 228 c 1
- 470 372 l 1
- 459 402 438 420 400 420 c 0
- 352 420 310 380 310 300 c 0xd8
-30 300 m 0
+30 300 m 0xb8
  30 471 142 610 320 610 c 0xd8
  401 610 455 571 490 518 c 1
  490 600 l 1
- 740 600 l 1xb8
+ 740 600 l 1
  740 -240 l 1
  470 -240 l 1
  470 56 l 1
  435 17 387 -10 320 -10 c 0
- 142 -10 30 129 30 300 c 0
+ 142 -10 30 129 30 300 c 0xb8
+310 300 m 0
+ 310 220 352 180 400 180 c 0
+ 438 180 459 198 470 228 c 1
+ 470 372 l 1
+ 459 402 438 420 400 420 c 0
+ 352 420 310 380 310 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3459,13 +3459,7 @@ VStem: 60 270<-240 56 191.988 408.012> 490 280<213.556 386.444>
 LayerCount: 2
 Fore
 SplineSet
-330 228 m 1xd8
- 341 198 362 180 400 180 c 0
- 448 180 490 220 490 300 c 0
- 490 380 448 420 400 420 c 0
- 362 420 341 402 330 372 c 1
- 330 228 l 1xd8
-60 -240 m 1
+60 -240 m 1xd8
  60 600 l 1
  310 600 l 1xb8
  310 518 l 1
@@ -3474,7 +3468,13 @@ SplineSet
  770 129 658 -10 480 -10 c 0
  413 -10 365 17 330 56 c 1
  330 -240 l 1
- 60 -240 l 1
+ 60 -240 l 1xd8
+330 228 m 1
+ 341 198 362 180 400 180 c 0
+ 448 180 490 220 490 300 c 0
+ 490 380 448 420 400 420 c 0xd8
+ 362 420 341 402 330 372 c 1
+ 330 228 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3574,16 +3574,16 @@ VStem: 60 280<0 600> 80 240<660 840>
 LayerCount: 2
 Fore
 SplineSet
-80 660 m 1xe8
- 80 840 l 1
- 320 840 l 1
- 320 660 l 1
- 80 660 l 1xe8
 60 0 m 1xf0
  60 600 l 1
  340 600 l 1
  340 0 l 1
  60 0 l 1xf0
+80 660 m 1xe8
+ 80 840 l 1
+ 320 840 l 1
+ 320 660 l 1
+ 80 660 l 1xe8
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3622,12 +3622,7 @@ VStem: 30 240<317.033 462.938> 60 170<10.5 147.485> 340 290<-123.567 -9.5> 370 2
 LayerCount: 2
 Fore
 SplineSet
-270 390 m 0xec80
- 270 348 282 310 320 310 c 0
- 358 310 370 348 370 390 c 0
- 370 432 358 470 320 470 c 0
- 282 470 270 432 270 390 c 0xec80
-30 390 m 0
+30 390 m 0xf4
  30 528 140 620 320 620 c 0xec
  401 620 469 601 518 568 c 1
  550 600 l 1
@@ -3650,7 +3645,12 @@ SplineSet
  235 -80 l 2
  149 -80 60 -39 60 60 c 0xf3
  60 120 92 168 140 202 c 1
- 69 241 30 307 30 390 c 0
+ 69 241 30 307 30 390 c 0xf4
+270 390 m 0
+ 270 348 282 310 320 310 c 0
+ 358 310 370 348 370 390 c 0xec80
+ 370 432 358 470 320 470 c 0
+ 282 470 270 432 270 390 c 0
 EndSplineSet
 Substitution2: "'aalt' Latin Access All Alternates" g.alt
 Substitution2: "'ss20' Latin a & g alt" g.alt
@@ -3789,17 +3789,17 @@ VStem: 60 280<-217.149 600> 80 240<660 840>
 LayerCount: 2
 Fore
 SplineSet
-80 660 m 1xd0
- 80 840 l 1
- 320 840 l 1
- 320 660 l 1
- 80 660 l 1xd0
 60 -240 m 1xe0
  60 600 l 1
  340 600 l 1
  340 -140 l 2
  340 -204 312 -250 200 -250 c 0
  132 -250 60 -240 60 -240 c 1xe0
+80 660 m 1xd0
+ 80 840 l 1
+ 320 840 l 1
+ 320 660 l 1
+ 80 660 l 1xd0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3842,16 +3842,16 @@ VStem: 80 240<0 200> 90 220<270 429.6>
 LayerCount: 2
 Fore
 SplineSet
+60 840 m 1xd0
+ 340 840 l 1
+ 310 270 l 1
+ 90 270 l 1
+ 60 840 l 1xd0
 80 0 m 1xe0
  80 200 l 1
  320 200 l 1
  320 0 l 1
  80 0 l 1xe0
-60 840 m 1
- 340 840 l 1
- 310 270 l 1
- 90 270 l 1xd0
- 60 840 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3866,16 +3866,16 @@ VStem: 90 130<480 540.48> 360 130<480 540.48>
 LayerCount: 2
 Fore
 SplineSet
-310 840 m 1
- 540 840 l 1
- 490 480 l 1
- 360 480 l 1
- 310 840 l 1
 40 840 m 1
  270 840 l 1
  220 480 l 1
  90 480 l 1
  40 840 l 1
+310 840 m 1
+ 540 840 l 1
+ 490 480 l 1
+ 360 480 l 1
+ 310 840 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3889,11 +3889,6 @@ HStem: 0 21G<90 305 450 665> 180 180<30 135 390 495 750 870> 480 180<90 210 465 
 LayerCount: 2
 Fore
 SplineSet
-390 360 m 1
- 540 360 l 1
- 570 480 l 1
- 420 480 l 1
- 390 360 l 1
 30 180 m 1
  30 360 l 1
  180 360 l 1
@@ -3923,6 +3918,11 @@ SplineSet
  90 0 l 1
  135 180 l 1
  30 180 l 1
+390 360 m 1
+ 540 360 l 1
+ 570 480 l 1
+ 420 480 l 1
+ 390 360 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -3974,31 +3974,31 @@ VStem: 30 165<546.285 693.715> 315 165<546.285 693.715> 620 165<146.285 293.715>
 LayerCount: 2
 Fore
 SplineSet
-785 220 m 0xa3c0
- 785 170 807 130 845 130 c 0
- 883 130 905 170 905 220 c 0
- 905 270 883 310 845 310 c 0
- 807 310 785 270 785 220 c 0xa3c0
-620 220 m 0
- 620 353 711 460 845 460 c 0
- 979 460 1070 353 1070 220 c 0
- 1070 87 979 -20 845 -20 c 0
- 711 -20 620 87 620 220 c 0
-195 620 m 0
- 195 570 217 530 255 530 c 0
- 293 530 315 570 315 620 c 0
- 315 670 293 710 255 710 c 0x1bc0
- 217 710 195 670 195 620 c 0
+30 620 m 0x1bc0
+ 30 753 121 860 255 860 c 0
+ 389 860 480 753 480 620 c 0
+ 480 487 389 380 255 380 c 0
+ 121 380 30 487 30 620 c 0x1bc0
 120 0 m 1x47c0
  800 840 l 1
  980 840 l 1
  300 0 l 1
  120 0 l 1x47c0
-30 620 m 0
- 30 753 121 860 255 860 c 0
- 389 860 480 753 480 620 c 0
- 480 487 389 380 255 380 c 0x1bc0
- 121 380 30 487 30 620 c 0
+195 620 m 0
+ 195 570 217 530 255 530 c 0
+ 293 530 315 570 315 620 c 0
+ 315 670 293 710 255 710 c 0x1bc0
+ 217 710 195 670 195 620 c 0
+620 220 m 0
+ 620 353 711 460 845 460 c 0
+ 979 460 1070 353 1070 220 c 0
+ 1070 87 979 -20 845 -20 c 0xa3c0
+ 711 -20 620 87 620 220 c 0
+785 220 m 0
+ 785 170 807 130 845 130 c 0
+ 883 130 905 170 905 220 c 0
+ 905 270 883 310 845 310 c 0
+ 807 310 785 270 785 220 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4013,16 +4013,6 @@ VStem: 40 260<188.733 296.585> 150 200<539.956 676.845> 470 190<550.118 676.961>
 LayerCount: 2
 Fore
 SplineSet
-350 610 m 1xd8
- 351 566 375 536 400 514 c 1
- 437 536 470 572 470 610 c 0
- 470 657 450 690 410 690 c 0
- 370 690 350 656 350 610 c 1xd8
-300 240 m 0xe8
- 300 199 334 170 390 170 c 0
- 419 170 448 181 478 199 c 1
- 350 315 l 1xd8
- 324 300 300 277 300 240 c 0xe8
 40 210 m 0xe8
  40 348 133 414 209 452 c 1
  178 490 150 542 150 610 c 0
@@ -4038,6 +4028,16 @@ SplineSet
  622 69 l 1
  548 16 452 -20 350 -20 c 0xd8
  194 -20 40 57 40 210 c 0xe8
+300 240 m 0xe8
+ 300 199 334 170 390 170 c 0
+ 419 170 448 181 478 199 c 1
+ 350 315 l 1xd8
+ 324 300 300 277 300 240 c 0xe8
+350 610 m 1
+ 351 566 375 536 400 514 c 1
+ 437 536 470 572 470 610 c 0
+ 470 657 450 690 410 690 c 0
+ 370 690 350 656 350 610 c 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4090,13 +4090,13 @@ VStem: 200 250<199.243 520.757>
 LayerCount: 2
 Fore
 SplineSet
-450 360 m 0
- 450 95 317 -68 140 -170 c 1
- 20 -20 l 1
+20 -20 m 1
  114 55 200 175 200 360 c 0
  200 545 114 665 20 740 c 1
  140 890 l 1
  317 788 450 625 450 360 c 0
+ 450 95 317 -68 140 -170 c 1
+ 20 -20 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4244,16 +4244,16 @@ VStem: 30 290<279.184 560.816> 540 290<279.184 560.816>
 LayerCount: 2
 Fore
 SplineSet
-320 420 m 0
- 320 298 358 220 430 220 c 0
- 502 220 540 298 540 420 c 0
- 540 542 502 620 430 620 c 0
- 358 620 320 542 320 420 c 0
 30 420 m 0
  30 658 180 860 430 860 c 0
  680 860 830 658 830 420 c 0
  830 182 680 -20 430 -20 c 0
  180 -20 30 182 30 420 c 0
+320 420 m 0
+ 320 298 358 220 430 220 c 0
+ 502 220 540 298 540 420 c 0
+ 540 542 502 620 430 620 c 0
+ 358 620 320 542 320 420 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4350,10 +4350,6 @@ VStem: 410 280<0 120 300 540>
 LayerCount: 2
 Fore
 SplineSet
-240 300 m 1
- 410 300 l 1
- 410 540 l 1
- 240 300 l 1
 30 120 m 1
  30 300 l 1
  420 840 l 1
@@ -4366,6 +4362,10 @@ SplineSet
  410 0 l 1
  410 120 l 1
  30 120 l 1
+240 300 m 1
+ 410 300 l 1
+ 410 540 l 1
+ 240 300 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4410,11 +4410,6 @@ VStem: 40 280<218.014 346.022> 500 280<217.339 340.7>
 LayerCount: 2
 Fore
 SplineSet
-320 280 m 0
- 320 232 357 190 410 190 c 0
- 463 190 500 232 500 280 c 0
- 500 328 463 370 410 370 c 0
- 350 370 320 328 320 280 c 0
 40 280 m 2
  40 500 l 2
  40 719 179 860 420 860 c 0
@@ -4427,6 +4422,11 @@ SplineSet
  644 550 780 471 780 300 c 0
  780 91 627 -20 410 -20 c 0
  193 -20 40 109 40 280 c 2
+320 280 m 0
+ 320 232 357 190 410 190 c 0
+ 463 190 500 232 500 280 c 0
+ 500 328 463 370 410 370 c 0
+ 350 370 320 328 320 280 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4462,17 +4462,7 @@ VStem: 30 280<188.841 323.805> 60 270<526.834 670.601> 470 270<526.834 670.601> 
 LayerCount: 2
 Fore
 SplineSet
-330 600 m 0xec
- 330 546 356 510 400 510 c 0
- 444 510 470 546 470 600 c 0
- 470 654 441 690 400 690 c 0
- 359 690 330 654 330 600 c 0xec
-310 250 m 0xf2
- 310 200 347 160 400 160 c 0
- 453 160 490 200 490 250 c 0
- 490 300 465 350 400 350 c 0
- 335 350 310 300 310 250 c 0xf2
-30 220 m 0
+30 220 m 0xf2
  30 319 82 392 180 433 c 1
  100 474 60 540 60 620 c 0
  60 755 195 860 400 860 c 0
@@ -4480,7 +4470,17 @@ SplineSet
  740 540 700 474 620 433 c 1
  718 392 770 319 770 220 c 0
  770 63 617 -20 400 -20 c 0
- 183 -20 30 63 30 220 c 0
+ 183 -20 30 63 30 220 c 0xf2
+310 250 m 0xf2
+ 310 200 347 160 400 160 c 0
+ 453 160 490 200 490 250 c 0
+ 490 300 465 350 400 350 c 0
+ 335 350 310 300 310 250 c 0xf2
+330 600 m 0xec
+ 330 546 356 510 400 510 c 0
+ 444 510 470 546 470 600 c 0
+ 470 654 441 690 400 690 c 0
+ 359 690 330 654 330 600 c 0xec
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4495,12 +4495,9 @@ VStem: 30 280<499.3 622.661> 490 280<493.978 621.986>
 LayerCount: 2
 Fore
 SplineSet
-490 560 m 0
- 490 608 453 650 400 650 c 0
- 347 650 310 608 310 560 c 0
- 310 512 347 470 400 470 c 0
- 460 470 490 512 490 560 c 0
-770 560 m 2
+30 540 m 0
+ 30 749 183 860 400 860 c 0
+ 617 860 770 731 770 560 c 2
  770 340 l 2
  770 121 631 -20 390 -20 c 0
  249 -20 150 25 90 80 c 1
@@ -4510,8 +4507,11 @@ SplineSet
  500 354 l 1
  454 317 389 290 300 290 c 0
  166 290 30 369 30 540 c 0
- 30 749 183 860 400 860 c 0
- 617 860 770 731 770 560 c 2
+310 560 m 0
+ 310 512 347 470 400 470 c 0
+ 460 470 490 512 490 560 c 0
+ 490 608 453 650 400 650 c 0
+ 347 650 310 608 310 560 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4526,16 +4526,16 @@ VStem: 60 240<0 200 400 600>
 LayerCount: 2
 Fore
 SplineSet
-60 400 m 1
- 60 600 l 1
- 300 600 l 1
- 300 400 l 1
- 60 400 l 1
 60 0 m 1
  60 200 l 1
  300 200 l 1
  300 0 l 1
  60 0 l 1
+60 400 m 1
+ 60 600 l 1
+ 300 600 l 1
+ 300 400 l 1
+ 60 400 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4597,16 +4597,16 @@ HStem: 120 180<50 590> 420 180<50 590>
 LayerCount: 2
 Fore
 SplineSet
-50 420 m 1
- 50 600 l 1
- 590 600 l 1
- 590 420 l 1
- 50 420 l 1
 50 120 m 1
  50 300 l 1
  590 300 l 1
  590 120 l 1
  50 120 l 1
+50 420 m 1
+ 50 600 l 1
+ 590 600 l 1
+ 590 420 l 1
+ 50 420 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4619,15 +4619,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-550 475 m 1
- 550 360 l 1
- 550 245 l 1
- 30 30 l 1
+30 30 m 1
  30 240 l 1
  370 360 l 1
  30 480 l 1
  30 690 l 1
  550 475 l 1
+ 550 360 l 1
+ 550 245 l 1
+ 30 30 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4642,22 +4642,22 @@ VStem: 230 240<0 200> 380 270<511.05 607.86>
 LayerCount: 2
 Fore
 SplineSet
-230 0 m 1xe0
- 230 200 l 1
- 470 200 l 1
- 470 0 l 1
- 230 0 l 1xe0
-10 730 m 1
+10 730 m 1xd0
  87 798 195 860 340 860 c 0
  519 860 650 752 650 600 c 0xd0
  650 449 495 375 465 362 c 1
  460 270 l 1
  240 270 l 1
  230 450 l 1xe0
- 320 474 380 516 380 560 c 0xd0
+ 320 474 380 516 380 560 c 0
  380 595 354 620 310 620 c 0
  256 620 199 586 140 540 c 1
- 10 730 l 1
+ 10 730 l 1xd0
+230 0 m 1xe0
+ 230 200 l 1
+ 470 200 l 1
+ 470 0 l 1
+ 230 0 l 1xe0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4672,14 +4672,7 @@ VStem: 30 90<196.3 483.7> 250 224<264.975 415.025> 602 206<251.053 429.551 525 5
 LayerCount: 2
 Fore
 SplineSet
-474 340 m 0xdf80
- 474 276 508 244 546 244 c 0
- 577 244 594 259 602 283 c 1
- 602 289 602 294 602 300 c 2
- 602 398 l 1
- 593 421 577 436 546 436 c 0
- 508 436 474 404 474 340 c 0xdf80
-30 340 m 0
+30 340 m 0xbf80
  30 622 253 860 550 860 c 0
  847 860 1070 622 1070 340 c 0
  1070 218 1007 92 814 92 c 0xbf80
@@ -4691,7 +4684,7 @@ SplineSet
  610 580 l 1
  808 580 l 1
  808 300 l 2
- 808 237 838 200 890 200 c 0xbf80
+ 808 237 838 200 890 200 c 0
  943 200 980 249 980 340 c 0
  980 572 797 780 550 780 c 0
  303 780 120 572 120 340 c 0
@@ -4699,7 +4692,14 @@ SplineSet
  638 -100 704 -87 755 -65 c 1
  780 -135 l 1
  718 -161 656 -180 550 -180 c 0
- 253 -180 30 58 30 340 c 0
+ 253 -180 30 58 30 340 c 0xbf80
+474 340 m 0
+ 474 276 508 244 546 244 c 0xdf80
+ 577 244 594 259 602 283 c 1
+ 602 289 602 294 602 300 c 2
+ 602 398 l 1
+ 593 421 577 436 546 436 c 0
+ 508 436 474 404 474 340 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4713,13 +4713,6 @@ HStem: 0 21G<10 316.333 663.667 970> 120 180<404 576> 820 20G<322.381 657.619>
 LayerCount: 2
 Fore
 SplineSet
-404 300 m 1
- 576 300 l 1
- 500 540 l 1
- 495 570 l 1
- 485 570 l 1
- 480 540 l 1
- 404 300 l 1
 10 0 m 1
  330 840 l 1
  650 840 l 1
@@ -4729,6 +4722,13 @@ SplineSet
  348 120 l 1
  310 0 l 1
  10 0 l 1
+404 300 m 1
+ 576 300 l 1
+ 500 540 l 1
+ 495 570 l 1
+ 485 570 l 1
+ 480 540 l 1
+ 404 300 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4743,26 +4743,26 @@ VStem: 60 280<180 350 500 660> 520 290<518.211 636.62> 550 300<209.649 322.896>
 LayerCount: 2
 Fore
 SplineSet
-340 500 m 1xf8
- 450 500 l 2
- 494 500 520 542 520 580 c 0
- 520 618 488 660 440 660 c 2
- 340 660 l 1
- 340 500 l 1xf8
-340 180 m 1
- 450 180 l 2
- 502 180 550 214 550 260 c 0xf4
- 550 306 520 350 450 350 c 2
- 340 350 l 1
- 340 180 l 1
-60 0 m 1
+60 0 m 1xf4
  60 840 l 1
  480 840 l 2
  704 840 810 745 810 610 c 0xf8
  810 533 774 472 697 434 c 1
  800 394 850 322 850 220 c 0
  850 56 690 0 540 0 c 2
- 60 0 l 1
+ 60 0 l 1xf4
+340 180 m 1
+ 450 180 l 2
+ 502 180 550 214 550 260 c 0xf4
+ 550 306 520 350 450 350 c 2
+ 340 350 l 1
+ 340 180 l 1
+340 500 m 1
+ 450 500 l 2
+ 494 500 520 542 520 580 c 0xf8
+ 520 618 488 660 440 660 c 2
+ 340 660 l 1
+ 340 500 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -4802,18 +4802,18 @@ VStem: 60 280<210 630> 580 290<311.393 528.607>
 LayerCount: 2
 Fore
 SplineSet
-340 210 m 1
- 390 210 l 2
- 508 210 580 301 580 420 c 0
- 580 539 508 630 390 630 c 2
- 340 630 l 1
- 340 210 l 1
 60 0 m 1
  60 840 l 1
  400 840 l 2
  708 840 870 658 870 420 c 0
  870 182 708 0 400 0 c 2
  60 0 l 1
+340 210 m 1
+ 390 210 l 2
+ 508 210 580 301 580 420 c 0
+ 580 539 508 630 390 630 c 2
+ 340 630 l 1
+ 340 210 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5081,16 +5081,16 @@ VStem: 30 295<311.437 528.563> 675 295<311.437 528.563>
 LayerCount: 2
 Fore
 SplineSet
-325 420 m 0
- 325 298 400 220 500 220 c 0
- 600 220 675 298 675 420 c 0
- 675 542 600 620 500 620 c 0
- 400 620 325 542 325 420 c 0
 30 420 m 0
  30 658 202 860 500 860 c 0
  798 860 970 658 970 420 c 0
  970 182 798 -20 500 -20 c 0
  202 -20 30 182 30 420 c 0
+325 420 m 0
+ 325 298 400 220 500 220 c 0
+ 600 220 675 298 675 420 c 0
+ 675 542 600 620 500 620 c 0
+ 400 620 325 542 325 420 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5105,12 +5105,6 @@ VStem: 60 280<0 240 440 640> 570 280<472.417 603.07>
 LayerCount: 2
 Fore
 SplineSet
-340 440 m 1
- 450 440 l 2
- 531 440 570 483 570 540 c 0
- 570 597 527 640 450 640 c 2
- 340 640 l 1
- 340 440 l 1
 60 0 m 1
  60 840 l 1
  500 840 l 2
@@ -5119,6 +5113,12 @@ SplineSet
  340 240 l 1
  340 0 l 1
  60 0 l 1
+340 440 m 1
+ 450 440 l 2
+ 531 440 570 483 570 540 c 0
+ 570 597 527 640 450 640 c 2
+ 340 640 l 1
+ 340 440 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5133,15 +5133,6 @@ VStem: 30 295<311.437 528.563> 675 295<348.121 528.563>
 LayerCount: 2
 Fore
 SplineSet
-325 420 m 0
- 325 298 400 220 500 220 c 0
- 515 220 529 222 543 225 c 1
- 455 315 l 1
- 575 435 l 1
- 665 347 l 1
- 671 369 675 394 675 420 c 0
- 675 542 600 620 500 620 c 0
- 400 620 325 542 325 420 c 0
 30 420 m 0
  30 658 202 860 500 860 c 0
  798 860 970 658 970 420 c 0
@@ -5151,6 +5142,15 @@ SplineSet
  733 30 l 1
  667 -2 589 -20 500 -20 c 0
  202 -20 30 182 30 420 c 0
+325 420 m 0
+ 325 298 400 220 500 220 c 0
+ 515 220 529 222 543 225 c 1
+ 455 315 l 1
+ 575 435 l 1
+ 665 347 l 1
+ 671 369 675 394 675 420 c 0
+ 675 542 600 620 500 620 c 0
+ 400 620 325 542 325 420 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5165,12 +5165,6 @@ VStem: 60 280<0 240 440 640> 570 280<471.939 603.07>
 LayerCount: 2
 Fore
 SplineSet
-340 440 m 1
- 450 440 l 2
- 531 440 570 483 570 540 c 0
- 570 597 527 640 450 640 c 2
- 340 640 l 1
- 340 440 l 1
 60 0 m 1
  60 840 l 1
  500 840 l 2
@@ -5182,6 +5176,12 @@ SplineSet
  340 240 l 1
  340 0 l 1
  60 0 l 1
+340 440 m 1
+ 450 440 l 2
+ 531 440 570 483 570 540 c 0
+ 570 597 527 640 450 640 c 2
+ 340 640 l 1
+ 340 440 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5446,15 +5446,15 @@ VStem: 40 390<-150 20 700 870> 190 240<20 700>
 LayerCount: 2
 Fore
 SplineSet
-430 870 m 1xe0
- 430 -150 l 1
- 40 -150 l 1
- 40 20 l 1xe0
+40 20 m 1xe0
  190 20 l 1
  190 700 l 1xd0
  40 700 l 1
  40 870 l 1
- 430 870 l 1xe0
+ 430 870 l 1
+ 430 -150 l 1
+ 40 -150 l 1
+ 40 20 l 1xe0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5698,14 +5698,7 @@ VStem: 30 330<-89.6484 20 700 809.648> 120 240<21.1559 266.547 453.453 698.844>
 LayerCount: 2
 Fore
 SplineSet
-470 390 m 1xd0
- 470 360 l 1
- 470 330 l 1
- 470 330 360 300 360 180 c 2xd0
- 360 0 l 2
- 360 -96 294 -150 200 -150 c 2
- 30 -150 l 1
- 30 20 l 1xe0
+30 20 m 1xe0
  80 20 l 2
  116 20 120 35 120 80 c 2
  120 210 l 2
@@ -5718,7 +5711,14 @@ SplineSet
  200 870 l 2
  294 870 360 816 360 720 c 2xe0
  360 540 l 2
- 360 420 470 390 470 390 c 1xd0
+ 360 420 470 390 470 390 c 1
+ 470 360 l 1
+ 470 330 l 1
+ 470 330 360 300 360 180 c 2xd0
+ 360 0 l 2
+ 360 -96 294 -150 200 -150 c 2
+ 30 -150 l 1
+ 30 20 l 1xe0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5797,14 +5797,14 @@ VStem: 60 240<460 660>
 LayerCount: 2
 Fore
 SplineSet
-320 770 m 1
+60 460 m 1
+ 60 630 l 2
+ 60 784 172 860 300 860 c 1
+ 320 770 l 1
  273 770 217 746 210 660 c 1
  300 660 l 1
  300 460 l 1
  60 460 l 1
- 60 630 l 2
- 60 784 172 860 300 860 c 1
- 320 770 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
@@ -5841,22 +5841,22 @@ VStem: 60 240<460 660> 360 240<460 660>
 LayerCount: 2
 Fore
 SplineSet
-620 770 m 1
- 573 770 517 746 510 660 c 1
- 600 660 l 1
- 600 460 l 1
- 360 460 l 1
- 360 630 l 2
- 360 784 472 860 600 860 c 1
- 620 770 l 1
-320 770 m 1
+60 460 m 1
+ 60 630 l 2
+ 60 784 172 860 300 860 c 1
+ 320 770 l 1
  273 770 217 746 210 660 c 1
  300 660 l 1
  300 460 l 1
  60 460 l 1
- 60 630 l 2
- 60 784 172 860 300 860 c 1
- 320 770 l 1
+360 460 m 1
+ 360 630 l 2
+ 360 784 472 860 600 860 c 1
+ 620 770 l 1
+ 573 770 517 746 510 660 c 1
+ 600 660 l 1
+ 600 460 l 1
+ 360 460 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
@@ -5871,14 +5871,6 @@ VStem: 60 240<640 840> 360 240<640 840>
 LayerCount: 2
 Fore
 SplineSet
-340 530 m 1
- 387 530 443 554 450 640 c 1
- 360 640 l 1
- 360 840 l 1
- 600 840 l 1
- 600 670 l 2
- 600 516 488 440 360 440 c 1
- 340 530 l 1
 40 530 m 1
  87 530 143 554 150 640 c 1
  60 640 l 1
@@ -5887,6 +5879,14 @@ SplineSet
  300 670 l 2
  300 516 188 440 60 440 c 1
  40 530 l 1
+340 530 m 1
+ 387 530 443 554 450 640 c 1
+ 360 640 l 1
+ 360 840 l 1
+ 600 840 l 1
+ 600 670 l 2
+ 600 516 488 440 360 440 c 1
+ 340 530 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
@@ -5957,21 +5957,21 @@ CounterMasks: 1 70
 LayerCount: 2
 Fore
 SplineSet
-720 0 m 1
- 720 200 l 1
- 960 200 l 1
- 960 0 l 1
- 720 0 l 1
-390 0 m 1
- 390 200 l 1
- 630 200 l 1
- 630 0 l 1
- 390 0 l 1
 60 0 m 1
  60 200 l 1
  300 200 l 1
  300 0 l 1
  60 0 l 1
+390 0 m 1
+ 390 200 l 1
+ 630 200 l 1
+ 630 0 l 1
+ 390 0 l 1
+720 0 m 1
+ 720 200 l 1
+ 960 200 l 1
+ 960 0 l 1
+ 720 0 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -5994,16 +5994,16 @@ VStem: -710 135<762.68 847.32> -495 135<762.68 847.32> 210 280<0 400.887>
 LayerCount: 2
 Fore
 SplineSet
--575 805 m 0
- -575 775 -557 760 -535 760 c 0
- -513 760 -495 775 -495 805 c 0
- -495 835 -513 850 -535 850 c 0
- -557 850 -575 835 -575 805 c 0
 -710 805 m 0
  -710 884 -649 940 -535 940 c 0
  -421 940 -360 884 -360 805 c 0
  -360 726 -421 670 -535 670 c 0
  -649 670 -710 726 -710 805 c 0
+-575 805 m 0
+ -575 775 -557 760 -535 760 c 0
+ -513 760 -495 775 -495 805 c 0
+ -495 835 -513 850 -535 850 c 0
+ -557 850 -575 835 -575 805 c 0
 0 540 m 1
  0 540 84 610 250 610 c 0
  416 610 490 532 490 380 c 2
@@ -6089,11 +6089,6 @@ VStem: -620 95<798.443 848.396> -455 95<771.604 848.396>
 LayerCount: 2
 Fore
 SplineSet
--525 810 m 0x78
- -525 784 -511 770 -490 770 c 0
- -469 770 -455 784 -455 810 c 0
- -455 836 -469 850 -490 850 c 0
- -511 850 -525 836 -525 810 c 0x78
 -830 690 m 1xb8
  -830 840 l 1
  -680 840 l 2xb8
@@ -6103,6 +6098,11 @@ SplineSet
  -414 930 -360 882 -360 810 c 0
  -360 738 -414 690 -490 690 c 2x78
  -830 690 l 1xb8
+-525 810 m 0
+ -525 784 -511 770 -490 770 c 0x78
+ -469 770 -455 784 -455 810 c 0
+ -455 836 -469 850 -490 850 c 0
+ -511 850 -525 836 -525 810 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6242,16 +6242,16 @@ AnchorPoint: "th-mkmk" 0 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--255 1035 m 0
- -255 1011 -242 995 -220 995 c 0
- -198 995 -185 1011 -185 1035 c 0
- -185 1059 -198 1075 -220 1075 c 0
- -242 1075 -255 1059 -255 1035 c 0
 -370 1035 m 0
  -370 1100 -315 1150 -220 1150 c 0
  -125 1150 -70 1100 -70 1035 c 0
  -70 970 -125 920 -220 920 c 0
  -315 920 -370 970 -370 1035 c 0
+-255 1035 m 0
+ -255 1011 -242 995 -220 995 c 0
+ -198 995 -185 1011 -185 1035 c 0
+ -185 1059 -198 1075 -220 1075 c 0
+ -242 1075 -255 1059 -255 1035 c 0
 EndSplineSet
 Substitution2: "TH Nikhahit High-Left" uni0E4D.high.left
 Colour: ffff00
@@ -6525,16 +6525,16 @@ VStem: -710 135<762.68 847.32> -495 135<762.68 847.32>
 LayerCount: 2
 Fore
 SplineSet
--575 805 m 0
- -575 775 -557 760 -535 760 c 0
- -513 760 -495 775 -495 805 c 0
- -495 835 -513 850 -535 850 c 0
- -557 850 -575 835 -575 805 c 0
 -710 805 m 0
  -710 884 -649 940 -535 940 c 0
  -421 940 -360 884 -360 805 c 0
  -360 726 -421 670 -535 670 c 0
  -649 670 -710 726 -710 805 c 0
+-575 805 m 0
+ -575 775 -557 760 -535 760 c 0
+ -513 760 -495 775 -495 805 c 0
+ -495 835 -513 850 -535 850 c 0
+ -557 850 -575 835 -575 805 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6673,16 +6673,16 @@ VStem: -630 115<996.734 1073.27> -445 115<996.734 1073.27>
 LayerCount: 2
 Fore
 SplineSet
--515 1035 m 0
- -515 1011 -502 995 -480 995 c 0
- -458 995 -445 1011 -445 1035 c 0
- -445 1059 -458 1075 -480 1075 c 0
- -502 1075 -515 1059 -515 1035 c 0
 -630 1035 m 0
  -630 1100 -575 1150 -480 1150 c 0
  -385 1150 -330 1100 -330 1035 c 0
  -330 970 -385 920 -480 920 c 0
  -575 920 -630 970 -630 1035 c 0
+-515 1035 m 0
+ -515 1011 -502 995 -480 995 c 0
+ -458 995 -445 1011 -445 1035 c 0
+ -445 1059 -458 1075 -480 1075 c 0
+ -502 1075 -515 1059 -515 1035 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6697,22 +6697,22 @@ VStem: 30 280<213.556 386.444> 470 270<191.988 408.012> 490 250<0 82 518 600>
 LayerCount: 2
 Fore
 SplineSet
-310 300 m 0xac
- 310 220 352 180 400 180 c 0
- 438 180 459 198 470 228 c 1
- 470 372 l 1
- 459 402 438 420 400 420 c 0
- 352 420 310 380 310 300 c 0xac
-30 300 m 0
+30 300 m 0x8a
  30 471 142 610 320 610 c 0xaa
  401 610 455 571 490 518 c 1
  490 600 l 1
  740 600 l 1
  740 0 l 1
- 490 0 l 1
- 490 82 l 1x5a
+ 490 0 l 1x5a
+ 490 82 l 1
  455 29 401 -10 320 -10 c 0
- 142 -10 30 129 30 300 c 0
+ 142 -10 30 129 30 300 c 0x8a
+310 300 m 0
+ 310 220 352 180 400 180 c 0
+ 438 180 459 198 470 228 c 1
+ 470 372 l 1xac
+ 459 402 438 420 400 420 c 0
+ 352 420 310 380 310 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6727,17 +6727,11 @@ VStem: 30 280<213.556 386.444> 470 270<191.988 408.012>
 LayerCount: 2
 Fore
 SplineSet
-310 300 m 0xec
- 310 220 352 180 400 180 c 0
- 438 180 459 198 470 228 c 1
- 470 372 l 1
- 459 402 438 420 400 420 c 0
- 352 420 310 380 310 300 c 0xec
-30 300 m 0
+30 300 m 0xdc
  30 471 142 610 320 610 c 0xec
  401 610 455 571 490 518 c 1
  490 600 l 1
- 740 600 l 1xdc
+ 740 600 l 1
  740 20 l 2
  740 -156 642 -260 410 -260 c 0
  306 -260 233 -239 170 -220 c 1
@@ -6746,7 +6740,13 @@ SplineSet
  428 -80 480 -59 480 0 c 2
  480 68 l 1
  445 23 394 -10 320 -10 c 0
- 142 -10 30 129 30 300 c 0
+ 142 -10 30 129 30 300 c 0xdc
+310 300 m 0
+ 310 220 352 180 400 180 c 0
+ 438 180 459 198 470 228 c 1
+ 470 372 l 1
+ 459 402 438 420 400 420 c 0
+ 352 420 310 380 310 300 c 0
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6786,86 +6786,86 @@ CounterMasks: 1 0e
 LayerCount: 2
 Fore
 SplineSet
-620 270 m 1xce
- 620 330 l 1
- 680 330 l 1
- 680 270 l 1
- 620 270 l 1xce
-589 427 m 1
- 644 450 l 1
- 667 395 l 1
- 612 372 l 1
- 589 427 l 1
-589 173 m 1
- 612 228 l 1
- 667 205 l 1
- 644 150 l 1
- 589 173 l 1
-523 505 m 1
- 565 547 l 1
- 607 505 l 1
- 565 463 l 1
- 523 505 l 1
-523 95 m 1
- 565 137 l 1
- 607 95 l 1
- 565 53 l 1
- 523 95 l 1
-432 552 m 1
- 455 607 l 1xde
- 510 584 l 1
- 487 529 l 1
- 432 552 l 1
-432 48 m 1
- 487 71 l 1
- 510 16 l 1
- 455 -7 l 1
- 432 48 l 1
-330 560 m 1xee
- 330 620 l 1
- 390 620 l 1
- 390 560 l 1
- 330 560 l 1xee
-330 -20 m 1
- 330 40 l 1
- 390 40 l 1
- 390 -20 l 1
- 330 -20 l 1
-210 584 m 1
- 265 607 l 1xde
- 288 552 l 1
- 233 529 l 1
- 210 584 l 1
-210 16 m 1
- 233 71 l 1
- 288 48 l 1
- 265 -7 l 1
- 210 16 l 1
-113 505 m 1
- 155 547 l 1
- 197 505 l 1
- 155 463 l 1
- 113 505 l 1
-113 95 m 1
- 155 137 l 1
- 197 95 l 1
- 155 53 l 1
- 113 95 l 1
-53 395 m 1
- 76 450 l 1
- 131 427 l 1
- 108 372 l 1
- 53 395 l 1
+40 270 m 1xce
+ 40 330 l 1
+ 100 330 l 1
+ 100 270 l 1
+ 40 270 l 1xce
 53 205 m 1
  108 228 l 1
  131 173 l 1
  76 150 l 1
  53 205 l 1
-40 270 m 1
- 40 330 l 1
- 100 330 l 1
- 100 270 l 1
- 40 270 l 1
+53 395 m 1
+ 76 450 l 1
+ 131 427 l 1
+ 108 372 l 1
+ 53 395 l 1
+113 95 m 1
+ 155 137 l 1
+ 197 95 l 1
+ 155 53 l 1
+ 113 95 l 1
+113 505 m 1
+ 155 547 l 1
+ 197 505 l 1
+ 155 463 l 1
+ 113 505 l 1
+210 16 m 1
+ 233 71 l 1
+ 288 48 l 1
+ 265 -7 l 1
+ 210 16 l 1
+210 584 m 1
+ 265 607 l 1xde
+ 288 552 l 1
+ 233 529 l 1
+ 210 584 l 1
+330 -20 m 1
+ 330 40 l 1
+ 390 40 l 1
+ 390 -20 l 1
+ 330 -20 l 1
+330 560 m 1xee
+ 330 620 l 1
+ 390 620 l 1
+ 390 560 l 1
+ 330 560 l 1xee
+432 48 m 1
+ 487 71 l 1
+ 510 16 l 1
+ 455 -7 l 1
+ 432 48 l 1
+432 552 m 1
+ 455 607 l 1xde
+ 510 584 l 1
+ 487 529 l 1
+ 432 552 l 1
+523 95 m 1
+ 565 137 l 1
+ 607 95 l 1
+ 565 53 l 1
+ 523 95 l 1
+523 505 m 1
+ 565 547 l 1
+ 607 505 l 1
+ 565 463 l 1
+ 523 505 l 1
+589 173 m 1
+ 612 228 l 1
+ 667 205 l 1
+ 644 150 l 1
+ 589 173 l 1
+589 427 m 1
+ 644 450 l 1
+ 667 395 l 1
+ 612 372 l 1
+ 589 427 l 1
+620 270 m 1
+ 620 330 l 1
+ 680 330 l 1
+ 680 270 l 1
+ 620 270 l 1
 EndSplineSet
 Colour: ffff00
 EndChar
