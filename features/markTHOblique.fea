@@ -1,0 +1,47 @@
+
+lookup markTHOblique {
+  lookupflag 0;
+  markClass [\uni0E31 \uni0E34 \uni0E35 \uni0E36 \uni0E37 \uni0E47 \uni0E48.low \uni0E49.low \uni0E4A.low \uni0E4B.low \uni0E4C.low ] <anchor -25 660> @thvowaboveobliqe;
+  markClass [\uni0E4E ] <anchor -95 660> @thvowaboveobliqe;
+  pos base [\uni0E1B ] <anchor 525 660> mark @thvowaboveobliqe;
+  pos base [\uni0E1E ] <anchor 945 660> mark @thvowaboveobliqe;
+  pos base [\uni0E1F ] <anchor 725 660> mark @thvowaboveobliqe;
+  pos base [\uni0E1D ] <anchor 625 660> mark @thvowaboveobliqe;
+  pos base [\uni0E10 \uni0E10.descless ] <anchor 645 660> mark @thvowaboveobliqe;
+  pos base [\uni0E23 ] <anchor 615 660> mark @thvowaboveobliqe;
+  pos base [\uni0E0A.swap ] <anchor 695 660> mark @thvowaboveobliqe;
+  pos base [\uni0E0B.swap ] <anchor 715 660> mark @thvowaboveobliqe;
+  pos base [\uni0E28.swap ] <anchor 705 660> mark @thvowaboveobliqe;
+  pos base [\uni0E2A.swap ] <anchor 665 660> mark @thvowaboveobliqe;
+  pos base [\uni0E2C.swap ] <anchor 885 660> mark @thvowaboveobliqe;
+  pos base [\uni0E2E.swap ] <anchor 655 660> mark @thvowaboveobliqe;
+  subtable;
+  markClass [\uni0E38 \uni0E3A ] <anchor -130 0> @thvowbelowoblique;
+  markClass [\uni0E39 ] <anchor -230 0> @thvowbelowoblique;
+  pos base [\uni0E07 ] <anchor 540 0> mark @thvowbelowoblique;
+  pos base [\uni0E08 \uni0E10.descless ] <anchor 460 0> mark @thvowbelowoblique;
+  pos base [\uni0E1E \uni0E2C \uni0E2C.swap ] <anchor 780 0> mark @thvowbelowoblique;
+} markTHOblique;
+
+feature mark {
+  script DFLT;
+     language dflt ;
+      lookup markTHOblique;
+  script latn;
+     language  SAN exclude_dflt;
+      lookup markTHOblique;
+     language PAL  exclude_dflt;
+      lookup markTHOblique;
+     language dflt ;
+      lookup markTHOblique;
+  script thai;
+     language PAL  exclude_dflt;
+      lookup markTHOblique;
+     language SAN  exclude_dflt;
+      lookup markTHOblique;
+     language THA  exclude_dflt;
+      lookup markTHOblique;
+     language dflt ;
+      lookup markTHOblique;
+
+} mark;

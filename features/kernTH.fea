@@ -1,0 +1,30 @@
+
+lookup kernTH {
+  lookupflag 0;
+    @kc23_first_1 = [\uni0E54 \uni0E55 ];
+    @kc23_second_1 = [\uni0E50 \uni0E51 \uni0E53 \uni0E54 \uni0E55 \uni0E57 \uni0E58 \uni0E59 ];
+    pos @kc23_first_1 @kc23_second_1 -30;
+} kernTH;
+
+feature kern {
+  script DFLT;
+     language dflt ;
+      lookup kernTH;
+  script latn;
+     language  SAN exclude_dflt;
+      lookup kernTH;
+     language PAL  exclude_dflt;
+      lookup kernTH;
+     language dflt ;
+      lookup kernTH;
+  script thai;
+     language PAL  exclude_dflt;
+      lookup kernTH;
+     language SAN  exclude_dflt;
+      lookup kernTH;
+     language THA  exclude_dflt;
+      lookup kernTH;
+     language dflt ;
+      lookup kernTH;
+
+} kern;

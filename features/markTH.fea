@@ -1,0 +1,47 @@
+
+lookup markTH {
+  lookupflag 0;
+  markClass [\uni0E31 \uni0E34 \uni0E35 \uni0E36 \uni0E37 \uni0E47 \uni0E48.low \uni0E49.low \uni0E4A.low \uni0E4B.low \uni0E4C.low ] <anchor -70 660> @thvowabove;
+  markClass [\uni0E4E ] <anchor -140 660> @thvowabove;
+  pos base [\uni0E1B ] <anchor 480 660> mark @thvowabove;
+  pos base [\uni0E1E ] <anchor 900 660> mark @thvowabove;
+  pos base [\uni0E1F ] <anchor 680 660> mark @thvowabove;
+  pos base [\uni0E1D ] <anchor 580 660> mark @thvowabove;
+  pos base [\uni0E10 \uni0E10.descless ] <anchor 600 660> mark @thvowabove;
+  pos base [\uni0E23 ] <anchor 570 660> mark @thvowabove;
+  pos base [\uni0E0A.swap ] <anchor 650 660> mark @thvowabove;
+  pos base [\uni0E0B.swap ] <anchor 670 660> mark @thvowabove;
+  pos base [\uni0E28.swap ] <anchor 660 660> mark @thvowabove;
+  pos base [\uni0E2A.swap ] <anchor 620 660> mark @thvowabove;
+  pos base [\uni0E2C.swap ] <anchor 840 660> mark @thvowabove;
+  pos base [\uni0E2E.swap ] <anchor 610 660> mark @thvowabove;
+  subtable;
+  markClass [\uni0E38 \uni0E3A ] <anchor -70 0> @thvowbelow;
+  markClass [\uni0E39 ] <anchor -170 0> @thvowbelow;
+  pos base [\uni0E07 ] <anchor 600 0> mark @thvowbelow;
+  pos base [\uni0E08 \uni0E10.descless ] <anchor 520 0> mark @thvowbelow;
+  pos base [\uni0E1E \uni0E1F \uni0E2C \uni0E2C.swap ] <anchor 840 0> mark @thvowbelow;
+} markTH;
+
+feature mark {
+  script DFLT;
+     language dflt ;
+      lookup markTH;
+  script latn;
+     language  SAN exclude_dflt;
+      lookup markTH;
+     language PAL  exclude_dflt;
+      lookup markTH;
+     language dflt ;
+      lookup markTH;
+  script thai;
+     language PAL  exclude_dflt;
+      lookup markTH;
+     language SAN  exclude_dflt;
+      lookup markTH;
+     language THA  exclude_dflt;
+      lookup markTH;
+     language dflt ;
+      lookup markTH;
+
+} mark;

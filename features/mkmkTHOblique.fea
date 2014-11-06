@@ -1,0 +1,29 @@
+
+lookup mkmkTHOblique {
+  lookupflag 0;
+  markClass [\uni0E49 \uni0E48 \uni0E4B \uni0E4A \uni0E4C \uni0E4D.high ] <anchor -60 0> @thmkmkobllique;
+  pos mark [\uni0E31 \uni0E34 \uni0E35 \uni0E36 \uni0E37 ] <anchor -60 0> mark @thmkmkobllique;
+} mkmkTHOblique;
+
+feature mkmk {
+  script DFLT;
+     language dflt ;
+      lookup mkmkTHOblique;
+  script latn;
+     language  SAN exclude_dflt;
+      lookup mkmkTHOblique;
+     language PAL  exclude_dflt;
+      lookup mkmkTHOblique;
+     language dflt ;
+      lookup mkmkTHOblique;
+  script thai;
+     language PAL  exclude_dflt;
+      lookup mkmkTHOblique;
+     language SAN  exclude_dflt;
+      lookup mkmkTHOblique;
+     language THA  exclude_dflt;
+      lookup mkmkTHOblique;
+     language dflt ;
+      lookup mkmkTHOblique;
+
+} mkmk;

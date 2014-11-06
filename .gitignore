@@ -29,5 +29,6 @@ node_modules
 
 # Temp Ignore
 backup/*
-*.py
+fontgen.py
 *.zip
+fonts/*
