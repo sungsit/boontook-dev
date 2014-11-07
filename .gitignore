@@ -32,3 +32,4 @@ backup/*
 fontgen.py
 *.zip
 fonts/*
+fonts-unhinted/*

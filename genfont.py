@@ -1,11 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # An ugly script to generate fonts from multi-layers SFD file.
 # Copyright (c) 2014, Sungsit Sawaiwan
 #
 # argv[1] = sfd file
 # argv[2] = font family name
-# NOT implemented yet: argv[3] = desired font format (otf, ttf, woff, svg)
+# NOT implemented yet: argv[3] = desired font extentsion (otf, ttf, woff, svg)
+#
+# Usage: python genOTF.py <sdf file> <font family name> <font extention>
 
 import sys,os
 from datetime import datetime
@@ -28,7 +30,7 @@ font.version = '1.0'
 
 print sep
 
-fontdir = './fonts/otf/'
+fontdir = './fonts-unhinted/' + sys.argv[3] + '/'
 feadir = './features/'
 dirs = [fontdir, feadir]
 for d in dirs:
@@ -64,12 +66,12 @@ while (i < cnt):
 
     font.familyname = sys.argv[2] + ' ' + subfamily
 
-    otfname = filename + '.otf'
+    newname = filename + '.' + sys.argv[3]
     # gen layer to font file
-    font.generate(fontdir+otfname,layer=layername)
+    font.generate(fontdir + newname, layer=layername)
 
     # checking
-    nfile = fontdir + otfname
+    nfile = fontdir + newname
     n = fontforge.open(nfile)
 
     # print some font prop 
@@ -81,6 +83,8 @@ while (i < cnt):
     print 'Italic angle:', n.italicangle
     print 'File path:', nfile
     print 'Font version:', n.version
+
+    n.generate(nfile)
     n.close()
 
     print sep
@@ -88,7 +92,5 @@ while (i < cnt):
 
 print font.copyright
 
-font.save(fontfile)
+font.save()
 font.close()
-
-
