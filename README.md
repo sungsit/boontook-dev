@@ -12,4 +12,4 @@ Copyright  (c) 2014, สังศิต ไสววรรณ (sungsit.com | htt
 
 ![Sample 2](img/sample-2.png?raw=true)
 
-![Sample 3](img/sample-3png?raw=true)
+![Sample 3](img/sample-3.png?raw=true)
