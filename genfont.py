@@ -23,8 +23,8 @@ print sep
 print 'SFD source file: ', fontfile
 
 # Change copyright text here
-font.copyright = 'Copyright (c) 2014, Sungsit Sawaiwan (http://sungsit.com | gibbozer [at] gmail [dot] com]), with Reserved Font Names "BoonTook".'
-font.version = '1.0'
+font.copyright = 'Copyright (c) 2014, Sungsit Sawaiwan (http://sungsit.com | gibbozer [at] gmail [dot] com), with Reserved Font Names "BoonTook".'
+font.version = '1.0.0'
 
 # Check some font properties
 
@@ -67,8 +67,9 @@ while (i < cnt):
     font.familyname = sys.argv[2] + ' ' + subfamily
 
     newname = filename + '.' + sys.argv[3]
+
     # gen layer to font file
-    font.generate(fontdir + newname, layer=layername)
+    font.generate(fontdir + newname, flags = ('round','opentype'), layer = layername)
 
     # checking
     nfile = fontdir + newname
@@ -84,6 +85,9 @@ while (i < cnt):
     print 'File path:', nfile
     print 'Font version:', n.version
 
+    n.unlinkReferences()
+    n.correctDirection()
+    n.removeOverlap()
     n.generate(nfile)
     n.close()
 

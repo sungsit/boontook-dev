@@ -17,12 +17,10 @@ rm $ttfpath/*.ttf
 
 for font in $otfpath/*.otf 
   do fontforge -script ./any2ttf.pe $font
-  #do echo $font $otfpath/ $ttfpath/
 done
 
 for ttf in $otfpath/*.ttf
-  do ttfautohint -i -c -n -W -w D -f latn $ttf $ttfpath/$(basename $ttf) -v
-# do $ttfpath/$(basename $otf .otf)
+  do ttfautohint -i -c -n -W -w G -f latn $ttf $ttfpath/$(basename $ttf) -v
 done
 
 rm $otfpath/*.ttf

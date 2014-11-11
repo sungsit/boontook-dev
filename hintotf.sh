@@ -12,9 +12,10 @@ if [ ! -d $tffpath ] ; then
 fi
 
 # clear old hinted fonts
-oldhinted=$hintedpath/*-hinted.otf
+oldhinted=$hintedpath/*.otf
 rm $oldhinted
 
 for font in $(find . -depth -name *.otf | grep $otfpath)
-  do autohint -q -c -r -o $hintedpath/$(basename $font .otf)'-hinted.otf' $font
+  #do autohint -q -c -r -o $hintedpath/$(basename $font .otf)'-hinted.otf' $font
+  do autohint -q -c -r -o $hintedpath/$(basename $font .otf)'.otf' $font
 done

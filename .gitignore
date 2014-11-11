@@ -28,8 +28,9 @@ node_modules
 .sass-cache
 
 # Temp Ignore
+boontook-master-ttf.sfd
 backup/*
-fontgen.py
 *.zip
 fonts/*
 fonts-unhinted/*
+*.bak

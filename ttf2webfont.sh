@@ -6,7 +6,7 @@
 ttfpath='./fonts/ttf'
 woffpath='./fonts/woff'
 woff2path='./fonts/woff2'
-eotpath='./fonts/eot'
+#eotpath='./fonts/eot'
 sep='---------------------------------------------------------------'
 
 # creat woff dir if not exist
@@ -16,14 +16,14 @@ fi
 if [ ! -d $woff2path ] ; then
   mkdir -p $woff2path
 fi
-if [ ! -d $eotpath ] ; then
-  mkdir -p $eotpath
-fi
+#if [ ! -d $eotpath ] ; then
+#  mkdir -p $eotpath
+#fi
 
 # clear old hinted fonts
 rm $woffpath/*.woff
 rm $woff2path/*.woff2
-rm $eotpath/*.eot
+#rm $eotpath/*.eot
 echo $sep
 
 # Convert with fontforge
@@ -49,6 +49,8 @@ done
 
 echo $sep
 
+# I don't mind IE<9 any more but in case you do.
+#
 # Convert ttf to eot with eotlitetool (doesn't seem to work)
 #for ttf in $ttfpath/*.ttf
 #  do python ./eotlitetool.py -o $(basename $ttf .ttf).eotlite $tff &&
@@ -57,9 +59,9 @@ echo $sep
 #done
 
 # Convert ttf to eot with mkeot
-for ttf in $ttfpath/*.ttf
-  do mkeot $ttf '' '' > $eotpath/$(basename $ttf .ttf).eot &&
-     echo 'Processing' $ttf '=>' $eotpath/$(basename $ttf .ttf).eot
-done
+#for ttf in $ttfpath/*.ttf
+#  do mkeot $ttf '' '' > $eotpath/$(basename $ttf .ttf).eot &&
+#     echo 'Processing' $ttf '=>' $eotpath/$(basename $ttf .ttf).eot
+#done
 
-echo $sep
+#echo $sep
