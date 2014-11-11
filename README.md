@@ -4,12 +4,12 @@ Copyright  (c) 2014, สังศิต ไสววรรณ (sungsit.com | htt
 
 อ่านเบื้องหลังการพัฒนาฟอนต์ได้ที่ <http://www.f0nt.com/forum/index.php/topic,21990.0.html>
 
-<img src="//github.com/sungsit/boontook/raw/master/img/char-thai.png" alt="ตัวอักษรไทย">
+![ตัวอักษรไทย](img/char-thai.png?raw=true)
 
-<img src="//github.com/sungsit/boontook/raw/master/img/char-latin.png" alt="Latin characters">
+![Latin characters](img/char-latin.png?raw=true)
 
-<img src="//github.com/sungsit/boontook/raw/master/img/sample-1.png" alt="Sample 1">
+![Sample 1](img/sample-1.png?raw=true)
 
-<img src="//github.com/sungsit/boontook/raw/master/img/sample-2.png" alt="Sample 2">
+![Sample 2](img/sample-2.png?raw=true)
 
-<img src="//github.com/sungsit/boontook/raw/master/img/sample-3.png" alt="Sample 3">
+![Sample 3](img/sample-3png?raw=true)
