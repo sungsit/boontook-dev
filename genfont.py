@@ -23,7 +23,7 @@ print sep
 print 'SFD source file: ', fontfile
 
 # Change copyright text here
-font.copyright = 'Copyright (c) 2014, Sungsit Sawaiwan (http://sungsit.com | gibbozer [at] gmail [dot] com), with Reserved Font Names "BoonTook".'
+font.copyright = 'Copyright (c) 2014, Sungsit Sawaiwan (http://sungsit.com | gibbozer [at] gmail [dot] com)'
 font.version = '1.0.0'
 
 # Check some font properties

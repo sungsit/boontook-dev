@@ -11,6 +11,8 @@ Make font generating script more portable and reusable :
 2. Hint OTF with [AFDKO](http://www.adobe.com/devnet/opentype/afdko.html) autohint
 
   `./hintotf.sh`
+  
+   Hint TTF with [ttfautohint](http://www.freetype.org/ttfautohint/)
 
 3. Generate TTF from hinted OTF with Freetype [ttfautohint](http://www.freetype.org/ttfautohint/)
 
